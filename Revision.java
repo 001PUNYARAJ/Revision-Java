@@ -51,6 +51,10 @@ public class Revision {
 		int NumberOfTicket=5;
 		if(NumberOfTicket>0 && NumberOfTicket<=5){
 			System.out.println("5% Discount);
+		
+		if(NumberOfTicket>5 && NumberOfTicket<10){
+			System.out.println("10% Discount);
+
 		 
 		
 
