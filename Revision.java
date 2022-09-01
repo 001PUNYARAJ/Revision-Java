@@ -47,6 +47,10 @@ public class Revision {
 		 
 		 
 		 	//Conditional Statements
+			One input--->Multipal outcome----conditional)
+		int NumberOfTicket=5;
+		if(NumberOfTicket>0 && NumberOfTicket<=5){
+			System.out.println("5% Discount);
 		 
 		
 
